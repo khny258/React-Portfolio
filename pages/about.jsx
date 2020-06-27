@@ -13,7 +13,7 @@ const App = () => (
     <hr />
     <div className="row">
       <div className="col-md-6 aboutSections">
-        <img className="profilePic profilePic1" src="../static/pics/DSC_6082.jpg" alt="profilepic" />
+        <img className="profilePic profilePic1" src="../static/pics/about.jpg" alt="profilepic" />
       </div>
       <div className="col-md-6 aboutSections">
         <h4 className="bio bio1">
