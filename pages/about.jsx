@@ -8,7 +8,7 @@ import '../static/css/pages.css';
 const App = () => (
   <div>
     <Navbar />
-    <Jumbotron phrase="About Me." subtitle="The story of my transition from Wall St. to web development" />
+    <Jumbotron phrase="About Me." subtitle="The story of my transition from Wall St. to web development." />
     <h3>My Story</h3>
     <hr />
     <div className="row">
