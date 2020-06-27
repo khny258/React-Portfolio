@@ -26,7 +26,7 @@ const App = () => (
             </React.Fragment>
           }
         />
-        <Card source="../static/pics/phone.png" text="619-493-6024" />
+        <Card source="../static/pics/phone.png" text="917-345-6723" />
       </div>
     </div>
     <Footer />

@@ -29,7 +29,7 @@ const Home = () => (
         <Picture source="../static/pics/FaceYourself.png" alt="faceyourself" github="https://github.com/khny258/React-Portfolio" deployed="https://kennyhuang.herokuapp.com/" />
       </div>
     </div>
-    <h3 className="backend">CLI Applications</h3>
+    {/* <h3 className="backend">CLI Applications</h3>
     <hr />
     <div className="row">
       <div className="col-md-4">
@@ -41,7 +41,7 @@ const Home = () => (
       <div className="col-md-4">
         <Picture source="../static/pics/csharp-delete.png" alt="hangman" github="https://github.com/khny258/React-Portfolio" />
       </div>
-    </div>
+    </div> */}
     <Footer />
   </div>
 );

@@ -8,7 +8,7 @@ import '../static/css/pages.css';
 const App = () => (
   <div>
     <Navbar />
-    <Jumbotron phrase="From Beer to Code." subtitle="The story of my transition from Ballast Point Brewing Company to software development" />
+    <Jumbotron phrase="About Me." subtitle="The story of my transition from Wall St. to web development" />
     <h3>My Story</h3>
     <hr />
     <div className="row">
@@ -17,14 +17,9 @@ const App = () => (
       </div>
       <div className="col-md-6 aboutSections">
         <h4 className="bio bio1">
-          Full-Stack fanatic who converts coffee into code.
-          My previous career as a Filter Technician at Ballast
-          Point Brewing Company revealed my passion for mechanical processes,
-          problem solving, and creating quality products through collaborative teamwork.
-          I specialize in HTML, CSS, JavaScript, and React on the front-end as well as Node
-          and MySQL/Mongo on the back-end to create beautiful and secure applications.
-          My biggest priority is developing clear, high-quality code while cultivating
-          a fun and encouraging workplace culture.
+        Full Stack Developer leveraging my 10+ years of experience in the finance industry to build useful applications and exciting things that will directly impact and change lives. After several years in Finance, I realized I had a love for coding so I enrolled in Columbia University where I became proficient in JavaScript, CSS, responsive web design, APIs, MERN Stack (MongoDB, Express.js, React.js, Node.js), and MySQL.
+        <br><br>>
+        I can develop innovative applications such as a group project called Timbr, a harmonious dating service for musicians, we completed involving a Node and Express web server backed by a MySQL database with a Sequelize ORM. My technical skills combined with my experience in collaborative, deadline-driven environments make me a strong addition to any web development team.
         </h4>
       </div>
     </div>
