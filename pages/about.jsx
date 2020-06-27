@@ -18,7 +18,7 @@ const App = () => (
       <div className="col-md-6 aboutSections">
         <h4 className="bio bio1">
         Full Stack Developer leveraging my 10+ years of experience in the finance industry to build useful applications and exciting things that will directly impact and change lives. After several years in Finance, I realized I had a love for coding so I enrolled in Columbia University where I became proficient in JavaScript, CSS, responsive web design, APIs, MERN Stack (MongoDB, Express.js, React.js, Node.js), and MySQL.
-        <br><br>>
+        
         I can develop innovative applications such as a group project called Timbr, a harmonious dating service for musicians, we completed involving a Node and Express web server backed by a MySQL database with a Sequelize ORM. My technical skills combined with my experience in collaborative, deadline-driven environments make me a strong addition to any web development team.
         </h4>
       </div>
