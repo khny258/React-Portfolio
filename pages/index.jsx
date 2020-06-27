@@ -13,10 +13,13 @@ const Home = () => (
     <hr />
     <div className="row">
       <div className="col-md-6">
-        <Picture source="../static/pics/sdbeer.png" alt="sdbeer" deployed="https://www.sdbeer.com/" />
+        <Picture source="../static/pics/a.jpg" alt="Rain or Shine" deployed="https://khny258.github.io/Rain-or-Shine/" />
       </div>
       <div className="col-md-6">
-        <Picture source="../static/pics/jobApp.png" alt="whistlr" deployed="https://jobothehunt.herokuapp.com/" />
+        <Picture source="../static/pics/16608.jpg" alt="Timbr" deployed="https://khny258.github.io/Timbr/" />
+      </div>
+      <div className="col-md-6">
+        <Picture source="../static/pics/project-3.jpg" alt="Note Taker" deployed="https://github.com/khny258/Note-Taker/" />
       </div>
     </div>
     {/* <h3 className="frontend">Front End Websites</h3>
