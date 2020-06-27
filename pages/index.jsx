@@ -18,7 +18,7 @@ const Home = () => (
       <div className="col-md-6">
         <Picture source="../static/pics/project-3.jpg" alt="Note Taker" deployed="https://github.com/khny258/Note-Taker/" />
       </div>
-      <div className="col-md-6">
+      <div className="col-md-4">
         <Picture source="../static/pics/16608.jpg" alt="Timbr" deployed="https://khny258.github.io/Timbr/" />
       </div>
     </div>
