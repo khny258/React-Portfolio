@@ -21,8 +21,8 @@ const App = () => (
           source="../static/pics/resume.png"
           text={
             <React.Fragment>
-              <a href="https://drive.google.com/file/d/1X5I6PLRmTbXzUMVeiPmLf-iYPkWecBon/view?usp=sharing" target="_blank" rel="noopener noreferrer"><button type="button" className="btn btn-dark">Resume</button></a>
-              <a href="https://drive.google.com/file/d/1X5I6PLRmTbXzUMVeiPmLf-iYPkWecBon/view?usp=sharing" target="_blank" rel="noopener noreferrer"><button type="button" className="btn btn-dark"><FontAwesomeIcon icon={faDownload} /></button></a>
+              <a href="https://drive.google.com/file/d/1AVhf2YaR3c5MSklWVBka1cnuI72eY2ky/view?usp=sharing" target="_blank" rel="noopener noreferrer"><button type="button" className="btn btn-dark">Resume</button></a>
+              <a href="https://drive.google.com/file/d/1AVhf2YaR3c5MSklWVBka1cnuI72eY2ky/view?usp=sharing" target="_blank" rel="noopener noreferrer"><button type="button" className="btn btn-dark"><FontAwesomeIcon icon={faDownload} /></button></a>
             </React.Fragment>
           }
         />
