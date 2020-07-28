@@ -14,11 +14,12 @@ const App = () => (
     <hr />
     <div className="row">
       <div className="col contactCol">
-        <Card source="../static/pics/gmail.png" text="khny258@gmail.com" />
+        <Card source="../static/pics/gmail.png" text={<a href="mailto:khny258@gmail.com" target="_blank" rel="noopener noreferrer"><button type="button" className="btn btn-dark">Email Me</button></a>} />
+        <Card source="../static/pics/phone.png" text={<a href="tel:1-917-345-6723" target="_blank" rel="noopener noreferrer"><button type="button" className="btn btn-dark">Call Me</button></a>} />
+        <Card source="../static/pics/resume.png" text={<a href="https://drive.google.com/file/d/1AVhf2YaR3c5MSklWVBka1cnuI72eY2ky/view?usp=sharing" target="_blank" rel="noopener noreferrer"><button type="button" className="btn btn-dark">Resume</button></a>} />
         <Card source="../static/pics/github.png" text={<a href="https://github.com/khny258" target="_blank" rel="noopener noreferrer"><button type="button" className="btn btn-dark">GitHub</button></a>} />
         <Card source="../static/pics/linkedin.png" text={<a href="https://www.linkedin.com/in/huangkenny/" target="_blank" rel="noopener noreferrer"><button type="button" className="btn btn-dark">LinkedIn</button></a>} />
-        <Card source="../static/pics/resume.png" text={<a href="https://drive.google.com/file/d/1AVhf2YaR3c5MSklWVBka1cnuI72eY2ky/view?usp=sharing" target="_blank" rel="noopener noreferrer"><button type="button" className="btn btn-dark">Resume</button></a>} />
-        <Card source="../static/pics/phone.png" text="917-345-6723" />
+
       </div>
     </div>
     <Footer />
