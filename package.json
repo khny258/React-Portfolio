@@ -3,9 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@fortawesome/fontawesome-svg-core": "^1.2.19",
-    "@fortawesome/free-brands-svg-icons": "^5.9.0",
-    "@fortawesome/free-solid-svg-icons": "^5.9.0",
+    "@fortawesome/fontawesome-svg-core": "^1.2.30",
+    "@fortawesome/free-brands-svg-icons": "^5.14.0",
+    "@fortawesome/free-solid-svg-icons": "^5.14.0",
     "@fortawesome/react-fontawesome": "^0.1.4",
     "@zeit/next-css": "^1.0.1",
     "express": "^4.16.4",
@@ -13,7 +13,7 @@
     "react": "^16.4.0",
     "react-dom": "^16.4.0",
     "react-favicon": "0.0.14",
-    "webpack": "^4.29.6"
+    "webpack": "^4.44.0"
   },
   "scripts": {
     "test": "mocha --timeout 10000",
@@ -61,16 +61,16 @@
     }
   },
   "devDependencies": {
-    "babel-eslint": "^10.0.1",
+    "babel-eslint": "^10.1.0",
     "chai": "^4.2.0",
-    "eslint": "^5.15.3",
-    "eslint-config-airbnb": "^17.1.0",
+    "eslint": "^5.16.0",
+    "eslint-config-airbnb": "^17.1.1",
     "eslint-config-react-app": "^3.0.8",
-    "eslint-plugin-import": "^2.16.0",
-    "eslint-plugin-jsx-a11y": "^6.2.1",
-    "eslint-plugin-react": "^7.12.4",
-    "mocha": "^6.1.4",
-    "nightmare": "^3.0.1",
-    "react-scripts": "^3.0.1"
+    "eslint-plugin-import": "^2.22.0",
+    "eslint-plugin-jsx-a11y": "^6.3.1",
+    "eslint-plugin-react": "^7.20.4",
+    "mocha": "^6.2.3",
+    "nightmare": "^3.0.2",
+    "react-scripts": "^3.4.1"
   }
 }
