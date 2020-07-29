@@ -1,18 +1,18 @@
 # My React Portfolio
 
-<img src="/static/pics/1.jpg">
+<img src="/static/pics/1.png">
 
-<img src="/static/pics/2.jpg">
+<img src="/static/pics/2.png">
 
-<img src="/static/pics/3.jpg">
+<img src="/static/pics/3.png">
 
-<img src="/static/pics/4.jpg">
+<img src="/static/pics/4.png">
 
-<img src="/static/pics/5.jpg">
+<img src="/static/pics/5.png">
 
-<img src="/static/pics/6.jpg">
+<img src="/static/pics/6.png">
 
-<img src="/static/pics/7.jpg">
+<img src="/static/pics/7.png">
 <br>
 <br>
 <h2>Let's connect. I prefer emails and phone calls.</h2>
