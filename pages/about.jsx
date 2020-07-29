@@ -28,13 +28,21 @@ const App = () => (
     <div className="row">
       <div className="col">
         <div className="row">
-          <div className="col-sm-12">
+          <div className="col-sm-6">
             <IconImage source="../static/pics/html.png" alt="html" width="25%" height="25%" />
             <IconImage source="../static/pics/css.png" alt="css" width="25%" height="25%" />
             <IconImage source="../static/pics/bootstrap.png" alt="bootstrap" width="25%" height="25%" />
             <IconImage source="../static/pics/javascript.png" alt="javascript" width="25%" height="25%" />
             <IconImage source="../static/pics/handlebars.png" alt="handlebars" width="25%" height="25%" />
             <IconImage source="../static/pics/jquery.png" alt="jquery" width="25%" height="25%" />
+          </div>
+        </div>
+      </div>
+    </div>
+    <div className="row">
+      <div className="col">
+        <div className="row">
+          <div className="col-sm-6">
             <IconImage source="../static/pics/githubIcon.png" alt="github" width="25%" height="25%" /> 
             <IconImage source="../static/pics/mern.jpg" alt="mern" width="25%" height="25%" />
             <IconImage source="../static/pics/mongodb.png" alt="mongodb" width="25%" height="25%" />

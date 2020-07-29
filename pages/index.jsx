@@ -12,13 +12,13 @@ const Home = () => (
     <h3>My Projects</h3>
     <hr />
     <div className="row">
-      <div className="col-md-6">
+      <div className="col-md-4">
+        <Picture source="../static/pics/Edward.png" alt="Edward" deployed="https://edward-2.herokuapp.com/" />
+      </div>
+      <div className="col-md-4">
         <Picture source="../static/pics/a.jpg" alt="Rain or Shine" deployed="https://khny258.github.io/Rain-or-Shine/" />
       </div>
-      <div className="col-md-6">
-        <Picture source="../static/pics/project-3.jpg" alt="Note Taker" deployed="https://github.com/khny258/Note-Taker/" />
-      </div>
-      <div className="col-md-6">
+      <div className="col-md-4">
         <Picture source="../static/pics/16608.jpg" alt="Timbr" deployed="https://khny258.github.io/Timbr/" />
       </div>
     </div>
