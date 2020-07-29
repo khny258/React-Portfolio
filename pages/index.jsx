@@ -11,17 +11,12 @@ const Home = () => (
     <Jumbotron phrase="Hello, I'm Kenny Huang, a Full Stack Developer" subtitle="from Brooklyn, NY" />
     <h3>My Projects</h3>
     <hr />
-    <div className="row">
-      <div className="col-md-4">
-        <Picture source="../static/pics/Edward.png" alt="Edward" deployed="https://edward-2.herokuapp.com/" />
-      </div>
-      <div className="col-md-4">
-        <Picture source="../static/pics/a.jpg" alt="Rain or Shine" deployed="https://khny258.github.io/Rain-or-Shine/" />
-      </div>
-      <div className="col-md-4">
-        <Picture source="../static/pics/16608.jpg" alt="Timbr" deployed="https://khny258.github.io/Timbr/" />
-      </div>
-    </div>
+    <Picture source="../static/pics/Edward.png" alt="Edward" deployed="https://edward-2.herokuapp.com/" />
+    <br />
+    <Picture source="../static/pics/a.jpg" alt="Rain or Shine" deployed="https://khny258.github.io/Rain-or-Shine/" />
+    <br />
+    <Picture source="../static/pics/16608.jpg" alt="Timbr" deployed="https://khny258.github.io/Timbr/" />
+
     {/* <h3 className="frontend">Front End Websites</h3>
     <hr />
     <div className="row">
