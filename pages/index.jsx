@@ -11,40 +11,13 @@ const Home = () => (
     <Jumbotron phrase="Hello, I'm Kenny Huang, a Full Stack Developer" subtitle="from Brooklyn, NY" />
     <h3>My Projects</h3>
     <hr />
-    <div className="row">
-      <div className="col-md-4">
-        <Picture source="../static/pics/Edward.png" alt="Edward" deployed="https://edward-2.herokuapp.com/" />
-      </div>
-      <div className="col-md-4">
-        <Picture source="../static/pics/a.jpg" alt="Rain or Shine" deployed="https://khny258.github.io/Rain-or-Shine/" />
-      </div>
-      <div className="col-md-4">
-        <Picture source="../static/pics/16608.jpg" alt="Timbr" deployed="https://khny258.github.io/Timbr/" />
-      </div>
-    </div>
-    {/* <h3 className="frontend">Front End Websites</h3>
-    <hr />
-    <div className="row">
-      <div className="col-md-6">
-        <Picture source="../static/pics/reactPortfolio.png" alt="portfolio" github="https://github.com/khny258/React-Portfolio" deployed="https://kennyhuang.herokuapp.com/" />
-      </div>
-      <div className="col-md-6">
-        <Picture source="../static/pics/FaceYourself.png" alt="faceyourself" github="https://github.com/khny258/React-Portfolio" deployed="https://kennyhuang.herokuapp.com/" />
-      </div>
-    </div> */}
-    {/* <h3 className="backend">CLI Applications</h3>
-    <hr />
-    <div className="row">
-      <div className="col-md-4">
-        <Picture source="../static/pics/bash.png" alt="liri" github="https://github.com/khny258/React-Portfolio" />
-      </div>
-      <div className="col-md-4">
-        <Picture source="../static/pics/csharp-copy.png" alt="hangman" github="https://github.com/khny258/React-Portfolio" />
-      </div>
-      <div className="col-md-4">
-        <Picture source="../static/pics/csharp-delete.png" alt="hangman" github="https://github.com/khny258/React-Portfolio" />
-      </div>
-    </div> */}
+
+    <p><Picture source="../static/pics/Edward.png" alt="Edward" deployed="https://edward-2.herokuapp.com/" /></p>
+
+    <p><Picture source="../static/pics/a.jpg" alt="Rain or Shine" deployed="https://khny258.github.io/Rain-or-Shine/" /></p>
+
+    <p><Picture source="../static/pics/16608.jpg" alt="Timbr" deployed="https://khny258.github.io/Timbr/" /></p>
+
     <Footer />
   </div>
 );
