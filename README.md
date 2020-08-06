@@ -24,7 +24,7 @@
 <a style="font-weight:bold" href="tel:917-345-6723">Phone: (917) 345-6723</a>
 <br>
 <br>
-<a style="font-weight:bold" href="https://drive.google.com/file/d/1bGSE2kGlVqSfRRiww-k9hHs-iW86XSx5/view?usp=sharing">Resume</a>
+<a style="font-weight:bold" href="https://drive.google.com/file/d/1MnD4lMSNt00KG49CReBn8z5JhNwJW0Eu/view?usp=sharing">Resume</a>
 <br>
 <br>
 <a style="font-weight:bold" href="https://www.linkedin.com/in/huangkenny">LinkedIn</a>
