@@ -16,7 +16,7 @@ const App = () => (
       <div className="col contactCol">
         <Card source="../static/pics/gmail.png" text={<a href="mailto:khny258@gmail.com" target="_blank" rel="noopener noreferrer"><button type="button" className="btn btn-dark">Email Me</button></a>} />
         <Card source="../static/pics/phone.png" text={<a href="tel:1-917-345-6723" target="_blank" rel="noopener noreferrer"><button type="button" className="btn btn-dark">Call Me</button></a>} />
-        <Card source="../static/pics/resume.png" text={<a href="https://drive.google.com/file/d/1Sv4lJHDuT7XHp63iSXV04piVDnkbAqe6/view?usp=sharing" target="_blank" rel="noopener noreferrer"><button type="button" className="btn btn-dark">Resume</button></a>} />
+        <Card source="../static/pics/resume.png" text={<a href="https://drive.google.com/file/d/10rXvcfoY51_o5fUefZMcBaAnBwzLzg_L/view?usp=sharing" target="_blank" rel="noopener noreferrer"><button type="button" className="btn btn-dark">Resume</button></a>} />
         <Card source="../static/pics/github.png" text={<a href="https://github.com/khny258" target="_blank" rel="noopener noreferrer"><button type="button" className="btn btn-dark">GitHub</button></a>} />
         <Card source="../static/pics/linkedin.png" text={<a href="https://www.linkedin.com/in/huangkenny/" target="_blank" rel="noopener noreferrer"><button type="button" className="btn btn-dark">LinkedIn</button></a>} />
 
