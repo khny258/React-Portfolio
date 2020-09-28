@@ -10,6 +10,7 @@
     "@zeit/next-css": "^1.0.1",
     "express": "^4.16.4",
     "next": "^9.3.2",
+    "nodemon": "^2.0.4",
     "react": "^16.4.0",
     "react-dom": "^16.4.0",
     "react-favicon": "0.0.14",
@@ -18,7 +19,7 @@
   "scripts": {
     "test": "mocha --timeout 10000",
     "dev": "NODE_ENV=development nodemon server.js",
-    "build": "next build",
+    "build": "set NODE_ENV=production webpack --mode production",
     "start": "NODE_ENV=production node server.js",
     "heroku-postbuild": "./node_modules/next/dist/bin/next build"
   },
@@ -63,6 +64,7 @@
   "devDependencies": {
     "babel-eslint": "^10.1.0",
     "chai": "^4.2.0",
+    "cross-env": "^7.0.2",
     "eslint": "^5.16.0",
     "eslint-config-airbnb": "^17.1.1",
     "eslint-config-react-app": "^3.0.8",
@@ -71,6 +73,10 @@
     "eslint-plugin-react": "^7.20.4",
     "mocha": "^6.2.3",
     "nightmare": "^3.0.2",
+    "node-env-run": "^4.0.1",
     "react-scripts": "^3.4.1"
+  },
+  "optionalDependencies": {
+    "win-node-env": "^0.4.0"
   }
 }

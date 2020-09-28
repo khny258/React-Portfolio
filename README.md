@@ -6,7 +6,7 @@
 
 <img src="/static/pics/3.png">
 
-<img src="/static/pics/4.png">
+<img src="/static/pics/about2.jpg">
 
 <img src="/static/pics/5.png">
 
