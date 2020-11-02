@@ -12,7 +12,7 @@ const Home = () => (
     <h3>My Projects</h3>
     <hr />
     <div className="row">
-      
+      <div className="col-md-2"></div>
       <div className="col-md-2" class="animate__animated animate__backInLeft">
         <Picture source="../static/pics/b.jpg" alt="Edward" deployed="https://edward-2.herokuapp.com/" />
       </div>
@@ -25,6 +25,7 @@ const Home = () => (
       <div className="col-md-2" class="animate__animated animate__backInRight">
         <Picture source="../static/pics/btc.png" alt="BTC" deployed="https://khny258.github.io/Bitcoin/" />
       </div>
+      <div className="col-md-2"></div>
     </div>
     <Footer />
   </div>
